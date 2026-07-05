@@ -13,6 +13,21 @@ This project presents a GIS-based Forest Fire Susceptibility Mapping for Jabalpu
 
 ---
 
+## 🛠️ Skills Demonstrated
+
+- GIS Analysis
+- Spatial Analysis
+- Raster Analysis
+- Vector Analysis
+- Multi-Criteria Decision Analysis (MCDA)
+- Cartography
+- Geoprocessing
+- Remote Sensing Basics
+- Spatial Validation
+- QGIS
+
+---
+
 ##  Study Area
 
 **Jabalpur District, Madhya Pradesh, India**
