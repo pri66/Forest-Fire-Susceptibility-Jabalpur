@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="maps/Forest_Fire_Susceptibility_Map.png" width="900">
+</p>
 #  Forest Fire Susceptibility Mapping of Jabalpur District, Madhya Pradesh
 
 **A GIS-Based Multi-Criteria Decision Analysis (MCDA) Approach**
