@@ -21,7 +21,7 @@ This project presents a GIS-based Forest Fire Susceptibility Mapping for Jabalpu
 > Upload your final susceptibility map to the `maps` folder and insert it here.
 
 ```markdown
-![Forest Fire Susceptibility](maps/Forest_Fire_Susceptibility_Map.png)
+![Forest Fire Susceptibility](maps/Forest_Fire_Susceptibility.png)
 ```
 
 ---
@@ -29,11 +29,6 @@ This project presents a GIS-based Forest Fire Susceptibility Mapping for Jabalpu
 ##  Model Validation
 
 Historical fire occurrences from **NASA FIRMS MODIS Collection 6.1 Fire Archive** were used to validate the susceptibility model.
-
-```markdown
-![Validation Map](maps/Validation_Map.png)
-```
-
 ---
 
 ##  Objectives
