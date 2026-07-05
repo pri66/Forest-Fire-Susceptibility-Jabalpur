@@ -13,7 +13,7 @@ This project presents a GIS-based Forest Fire Susceptibility Mapping for Jabalpu
 
 ---
 
-## 🛠️ Skills Demonstrated
+##  Skills Demonstrated
 
 - GIS Analysis
 - Spatial Analysis
