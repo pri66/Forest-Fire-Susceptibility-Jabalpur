@@ -21,7 +21,7 @@ This project presents a GIS-based Forest Fire Susceptibility Mapping for Jabalpu
 > Upload your final susceptibility map to the `maps` folder and insert it here.
 
 ```markdown
-![Forest Fire Susceptibility](maps/Forest_Fire_Susceptibility.png)
+![Forest-Fire-Susceptibility-Jabalpur](maps/Forest_Fire_Susceptibility.png)
 ```
 
 ---
